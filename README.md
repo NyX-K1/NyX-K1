@@ -120,6 +120,18 @@ fun_facts:
 
 <br/>
 
+## 🐍 `while(alive) { contribute(); }`
+
+<div align="center"> 
+  <picture> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake.svg" /> 
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake-dark.svg" /> 
+  </picture> 
+</div>
+
+<br/>
+
 ## 🧊 `while(alive) { build_3d_city(); }`
 > *"Building my contribution graph block by block"*
 
