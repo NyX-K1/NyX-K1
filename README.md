@@ -120,14 +120,21 @@ fun_facts:
 
 <br/>
 
-## 🐍 `while(alive) { contribute(); }`
+## 🧊 `while(alive) { build_3d_city(); }`
+> *"Building my contribution graph block by block"*
 
-<div align="center"> 
-  <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake.svg" /> 
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/NyX-K1/NyX-K1/output/github-snake-dark.svg" /> 
-  </picture> 
+<div align="center">
+  <img alt="3D Isometric GitHub Commits" src="https://raw.githubusercontent.com/NyX-K1/NyX-K1/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+<br/>
+
+## 🎮 `sudo play tic_tac_toe`
+> *"Click a cell to make a move. A GitHub Action handles the rest!"*
+
+<div align="center">
+<!-- README-TIC-TAC-TOE-START -->
+<!-- README-TIC-TAC-TOE-END -->
 </div>
 
 <br/>
