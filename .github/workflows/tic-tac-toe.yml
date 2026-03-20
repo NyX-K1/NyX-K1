@@ -1,0 +1,19 @@
+name: README tic-tac-toe
+on:
+  issues:
+    types: [opened, deleted, transferred, closed, reopened, reassigned]
+  issue_comment:
+    types: [created, edited, deleted]
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: marocchino/readme-tic-tac-toe-action@v1
+        with:
+          readme_path: README.md
+          branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
