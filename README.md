@@ -141,18 +141,7 @@ fun_facts:
 
 
 
-<br/>
 
-## 🎧 `spotify.nowPlaying()`
-> *"My playlist has more consistency than my commit history"*
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31m35dexxmo2jp56xdf72phyg6du&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" alt="Spotify Now Playing">
-  </a>
-</p>
-
-<br/>
 
 <div align="center"> 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
